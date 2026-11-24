@@ -41,10 +41,10 @@ Converts foreign currencies into Malaysian Ringgit (MYR) to help users understan
 
 | Name | GitHub Username | Role |
 |---|---|---|
-| Member 1 | @username | Project Leader |
-| Member 2 | @username | Frontend Developer |
-| Member 3 | @username | Backend Developer / Model Integrator |
-| Member 4 | @username | Domain Specialist |
+| NUR IRDINA BATRISYA BINTI ZULHAZMI | @username | Project Leader |
+| NUR EMALLYN SOFEA BINTI NORIZAL    | @username | Frontend Developer |
+| NURBATUL ZAYNAB BINTI DARUL AZAHAR | @username | Backend Developer / Model Integrator |
+| TIJANIE MARSYA BINTI ROSLIM        | @username | Domain Specialist |
 
 ## 6. Domain and Dataset
 
